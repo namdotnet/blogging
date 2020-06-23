@@ -2,7 +2,7 @@
 Dưới đây là danh sách các bài viết theo từng nhóm chủ đề, những bài viết liên quan đến nhiều chủ đề thì sẽ được chọn vào một chủ đề liên quan nhất.
 
 ### Featured posts
-* [OOP - chủ đề huyền thoại trong các cuộc phỏng vấn tuyển dụng](fb.com/1282114365306910)
+* [OOP - chủ đề huyền thoại trong các cuộc phỏng vấn tuyển dụng](https://fb.com/1282114365306910)
 * [VÀI ĐIỀU VỀ OOP DESIGNING](fb.com/1294572367394443)
 * [CÂU CHUYỆN VỀ CON TRỎ (POINTER)](fb.com/1283909971794016)
 * [CON TRỎ (nâng cao)](fb.com/1339114936273519)
